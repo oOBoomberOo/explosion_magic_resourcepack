@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 5,
+		"description": [
+			{"text": "Explosion Magic", "color": "red"},
+			{"text": " is the best!", "color": "gray"}
+		]
+	}
+}
