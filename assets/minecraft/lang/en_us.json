@@ -1,6 +1,8 @@
 {
 	"boomber.explosion_magic.item.mana_gauge": "Mana Gauge",
 	"boomber.explosion_magic.item.scroll.aqua_party_trick": "Aqua's Party Trick Scroll",
+	"boomber.explosion_magic.item.scroll.miniature_explosion": "Miniature Explosion Scroll",
 	"boomber.explosion_magic.ui.action.casted": "Casted",
-	"boomber.explosion_magic.ui.spell.aqua_party_trick": "Aqua's Party Trick"
+	"boomber.explosion_magic.ui.spell.aqua_party_trick": "Aqua's Party Trick",
+	"boomber.explosion_magic.ui.spell.miniature_explosion": "Miniature Explosion"
 }

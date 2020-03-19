@@ -1,0 +1,7 @@
+{
+	"explosion_magic.spell.miniature_explosion.casted": {
+		"sounds": [
+			"boomber:explosion_magic/spell/miniature_explosion/casted"
+		]
+	}
+}
